@@ -9,8 +9,10 @@ O projeto é iniciado apartir do arquivo TrabM1.java
 
 ## Contato
 #### Gmail:
+    lucas11ouriques@gmail.com
     higor.clemes@gmail.com
 #### LinkedIn:
     Higor Clemes
 #### Instagram:
+    @lucas_Ouriques
     @higor_clemes
